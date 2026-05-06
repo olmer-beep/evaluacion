@@ -1,0 +1,38 @@
+{
+  "2026-05-05": [
+    {
+      "nombre": "Olmer",
+      "tareas": [
+        {
+          "texto": "Inventario",
+          "hecho": false
+        },
+        {
+          "texto": "Precios",
+          "hecho": false
+        },
+        {
+          "texto": "Cliente",
+          "hecho": false
+        },
+        {
+          "texto": "Email",
+          "hecho": false
+        },
+        {
+          "texto": "Llenar",
+          "hecho": false
+        },
+        {
+          "texto": "Pedir",
+          "hecho": false
+        },
+        {
+          "texto": "Limpiar",
+          "hecho": false
+        }
+      ],
+      "comentarios": ""
+    }
+  ]
+}
