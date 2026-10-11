@@ -1,0 +1,271 @@
+{
+  "tasa": 1.79,
+  "movs": [
+    {
+      "id": "mv40r8tzgnegj",
+      "ts": 1791734998391,
+      "fecha": "2026-10-11",
+      "tipo": "venta",
+      "concepto": "",
+      "metodo": "cash",
+      "moneda": "XCG",
+      "total": 15000,
+      "recibido": {
+        "USD": {},
+        "XCG": {
+          "1000": 1,
+          "2000": 2,
+          "10000": 1
+        }
+      },
+      "cambioMoneda": "XCG",
+      "cambio": 0,
+      "desglose": [],
+      "cash": {
+        "USD": 0,
+        "XCG": 15000
+      }
+    },
+    {
+      "id": "mv41dm1kruw3e",
+      "ts": 1791736041944,
+      "fecha": "2026-10-11",
+      "tipo": "venta",
+      "numero": "B-000001",
+      "concepto": "",
+      "cliente": "",
+      "cajero": "Olmer Vega",
+      "metodo": "cash",
+      "moneda": "XCG",
+      "tasa": 1.79,
+      "items": [],
+      "subtotal": 59000,
+      "impuesto": 0,
+      "impuestoPct": 0,
+      "total": 59000,
+      "recibido": {
+        "USD": {},
+        "XCG": {}
+      },
+      "recibidoMonto": {
+        "USD": 0,
+        "XCG": 59000
+      },
+      "cambioMoneda": "XCG",
+      "cambio": 0,
+      "desglose": [],
+      "cash": {
+        "USD": 0,
+        "XCG": 59000
+      }
+    },
+    {
+      "id": "mv41emj5raoro",
+      "ts": 1791736089233,
+      "fecha": "2026-10-11",
+      "tipo": "venta",
+      "numero": "B-000002",
+      "concepto": "",
+      "cliente": "",
+      "cajero": "Olmer Vega",
+      "metodo": "cash",
+      "moneda": "XCG",
+      "tasa": 1.79,
+      "items": [],
+      "subtotal": 50000,
+      "impuesto": 0,
+      "impuestoPct": 0,
+      "total": 50000,
+      "recibido": {
+        "USD": {},
+        "XCG": {}
+      },
+      "recibidoMonto": {
+        "USD": 0,
+        "XCG": 50000
+      },
+      "cambioMoneda": "XCG",
+      "cambio": 0,
+      "desglose": [],
+      "cash": {
+        "USD": 0,
+        "XCG": 50000
+      }
+    },
+    {
+      "id": "mv42bwg2sv8cr",
+      "ts": 1791737641730,
+      "fecha": "2026-10-11",
+      "tipo": "venta",
+      "numero": "B-000003",
+      "concepto": "",
+      "cliente": "",
+      "cajero": "Olmer Vega",
+      "metodo": "cash",
+      "moneda": "XCG",
+      "tasa": 1.79,
+      "items": [],
+      "subtotal": 60000,
+      "impuesto": 0,
+      "impuestoPct": 0,
+      "total": 60000,
+      "recibido": {
+        "USD": {},
+        "XCG": {}
+      },
+      "recibidoMonto": {
+        "USD": 0,
+        "XCG": 60000
+      },
+      "cambioMoneda": "XCG",
+      "cambio": 0,
+      "desglose": [],
+      "cash": {
+        "USD": 0,
+        "XCG": 60000
+      }
+    },
+    {
+      "id": "mv42c838yhrgy",
+      "ts": 1791737656820,
+      "fecha": "2026-10-11",
+      "tipo": "venta",
+      "numero": "B-000004",
+      "concepto": "",
+      "cliente": "",
+      "cajero": "Olmer Vega",
+      "metodo": "cash",
+      "moneda": "XCG",
+      "tasa": 1.79,
+      "items": [],
+      "subtotal": 50000,
+      "impuesto": 0,
+      "impuestoPct": 0,
+      "total": 50000,
+      "recibido": {
+        "USD": {},
+        "XCG": {}
+      },
+      "recibidoMonto": {
+        "USD": 0,
+        "XCG": 50000
+      },
+      "cambioMoneda": "XCG",
+      "cambio": 0,
+      "desglose": [],
+      "cash": {
+        "USD": 0,
+        "XCG": 50000
+      }
+    },
+    {
+      "id": "mv42dbm6x317f",
+      "ts": 1791737708046,
+      "fecha": "2026-10-11",
+      "tipo": "venta",
+      "numero": "B-000005",
+      "concepto": "",
+      "cliente": "",
+      "cajero": "Olmer Vega",
+      "metodo": "cash",
+      "moneda": "XCG",
+      "tasa": 1.79,
+      "items": [],
+      "subtotal": 60000,
+      "impuesto": 0,
+      "impuestoPct": 0,
+      "total": 60000,
+      "recibido": {
+        "USD": {},
+        "XCG": {}
+      },
+      "recibidoMonto": {
+        "USD": 0,
+        "XCG": 60000
+      },
+      "cambioMoneda": "XCG",
+      "cambio": 0,
+      "desglose": [],
+      "cash": {
+        "USD": 0,
+        "XCG": 60000
+      }
+    },
+    {
+      "id": "mv42frs6cfk5v",
+      "ts": 1791737822310,
+      "fecha": "2026-10-11",
+      "tipo": "venta",
+      "numero": "B-000006",
+      "concepto": "",
+      "cliente": "",
+      "cajero": "Olmer Vega",
+      "metodo": "cash",
+      "moneda": "XCG",
+      "tasa": 1.79,
+      "items": [],
+      "subtotal": 500000,
+      "impuesto": 0,
+      "impuestoPct": 0,
+      "total": 500000,
+      "recibido": {
+        "USD": {},
+        "XCG": {}
+      },
+      "recibidoMonto": {
+        "USD": 0,
+        "XCG": 500000
+      },
+      "cambioMoneda": "XCG",
+      "cambio": 0,
+      "desglose": [],
+      "cash": {
+        "USD": 0,
+        "XCG": 500000
+      }
+    },
+    {
+      "id": "mv42kvs10u47j",
+      "ts": 1791738060769,
+      "fecha": "2026-10-11",
+      "tipo": "venta",
+      "numero": "B-000007",
+      "concepto": "",
+      "cliente": "",
+      "cajero": "Olmer Vega",
+      "metodo": "cash",
+      "moneda": "XCG",
+      "tasa": 1.79,
+      "items": [],
+      "subtotal": 500000,
+      "impuesto": 0,
+      "impuestoPct": 0,
+      "total": 500000,
+      "recibido": {
+        "USD": {},
+        "XCG": {}
+      },
+      "recibidoMonto": {
+        "USD": 0,
+        "XCG": 500000
+      },
+      "cambioMoneda": "XCG",
+      "cambio": 0,
+      "desglose": [],
+      "cash": {
+        "USD": 0,
+        "XCG": 500000
+      }
+    }
+  ],
+  "arqueos": [],
+  "conteo": {
+    "USD": {},
+    "XCG": {}
+  },
+  "fondo": {
+    "USD": 0,
+    "XCG": 0
+  },
+  "seq": 7
+}

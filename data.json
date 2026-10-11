@@ -34,5 +34,69 @@
       ],
       "comentarios": ""
     }
+  ],
+  "2026-07-05": [
+    {
+      "nombre": "Olmer Vega",
+      "tareas": [
+        {
+          "texto": "Inventario",
+          "hecho": true
+        },
+        {
+          "texto": "Precios",
+          "hecho": true
+        },
+        {
+          "texto": "Cliente",
+          "hecho": true
+        },
+        {
+          "texto": "Email",
+          "hecho": true
+        },
+        {
+          "texto": "Llenar",
+          "hecho": true
+        },
+        {
+          "texto": "Pedir",
+          "hecho": true
+        },
+        {
+          "texto": "Limpiar",
+          "hecho": true
+        },
+        {
+          "texto": "contestar el wassap",
+          "hecho": false
+        }
+      ],
+      "comentarios": ""
+    }
+  ],
+  "2026-08-09": [
+    {
+      "nombre": "Olmer Vega Altamar",
+      "tareas": [],
+      "comentarios": ""
+    }
+  ],
+  "2026-10-11": [
+    {
+      "nombre": "Olmer Vega",
+      "tareas": [
+        {
+          "texto": "trabaja un programa",
+          "hecho": true
+        }
+      ],
+      "comentarios": ""
+    },
+    {
+      "nombre": "Dylan Vega",
+      "tareas": [],
+      "comentarios": ""
+    }
   ]
 }
